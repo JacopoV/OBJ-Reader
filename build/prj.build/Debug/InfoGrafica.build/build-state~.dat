@@ -1,0 +1,353 @@
+TInfoGrafica
+v7
+r0
+t295975211.703972
+cCheck dependencies
+cCompileC build/prj.build/Debug/InfoGrafica.build/Objects-normal/x86_64/Vertex.o /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Vertex.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/prj.build/Debug/InfoGrafica.build/Objects-normal/x86_64/Triangles.o /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Triangles.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/prj.build/Debug/InfoGrafica.build/Objects-normal/x86_64/Quads.o /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Quads.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/prj.build/Debug/InfoGrafica.build/Objects-normal/x86_64/Shader.o /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Shader.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/prj.build/Debug/InfoGrafica.build/Objects-normal/x86_64/Parser.o /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Parser.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/prj.build/Debug/InfoGrafica.build/Objects-normal/x86_64/ObjReader.o /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/ObjReader.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/prj.build/Debug/InfoGrafica.build/Objects-normal/x86_64/Normal.o /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Normal.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/Debug/Code normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BE92BD400000000000000EE
+t1273572308
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/GLUT.framework/GLUT
+c000000004B99A233000000000001A494
+t1268359731
+s107668
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/GLUT.framework/Headers/glext.h
+c00000000436894CA00000000000519B8
+t1130927306
+s334264
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h
+c000000004B44A0F3000000000000578C
+t1262788851
+s22412
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/Headers/gl.h
+c000000004B824D230000000000025B59
+t1266830627
+s154457
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h
+c000000004B824D230000000000003F84
+t1266830627
+s16260
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000004B99A233000000000000DB14
+t1268359731
+s56084
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h
+c000000004AC320BA00000000000004F1
+t1254301882
+s1265
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004AC326060000000000004174
+t1254303238
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004AC326060000000000001731
+t1254303238
+s5937
+
+N/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Container.h
+c000000004BE91830000000000000067E
+t1273567280
+s1662
+i"OpenGL/gl.h"
+i"GLUT/glut.h"
+i"OpenGL/glu.h"
+i"stdio.h"
+i"string.h"
+i"Triangles.h"
+i"Quads.h"
+i<iostream>
+
+N/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Normal.cpp
+c000000004BE919F60000000000000329
+t1273567734
+s809
+i"Normal.h"
+
+N/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Normal.h
+c000000004BE919FB00000000000002A5
+t1273567739
+s677
+i"OpenGL/gl.h"
+i"GLUT/glut.h"
+i"OpenGL/glu.h"
+i"GLUT/glext.h"
+
+N/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/ObjReader.cpp
+c000000004BF2FC1600000000000047F8
+t1274215446
+s18424
+i"ObjReader.h"
+
+N/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/ObjReader.h
+c000000004BE916540000000000000934
+t1273566804
+s2356
+i"OpenGL/gl.h"
+i"GLUT/glut.h"
+i"OpenGL/glu.h"
+i"stdio.h"
+i"Container.h"
+i"Parser.h"
+i"Triangles.h"
+i"Quads.h"
+i"Vertex.h"
+i"Normal.h"
+i"Shader.h"
+i<math.h>
+i<iostream>
+i<vector>
+
+N/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Parser.cpp
+c000000004BE9179000000000000009D3
+t1273567120
+s2515
+i"Parser.h"
+
+N/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Parser.h
+c000000004BE9176400000000000003AF
+t1273567076
+s943
+i"OpenGL/gl.h"
+i"GLUT/glut.h"
+i"OpenGL/glu.h"
+i"stdio.h"
+i"string.h"
+i"Container.h"
+i"Triangles.h"
+i"Quads.h"
+i"Vertex.h"
+i<string.h>
+i<iostream>
+i<vector>
+
+N/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Quads.cpp
+c000000004BE9184F0000000000000534
+t1273567311
+s1332
+i"Quads.h"
+i<iostream>
+
+N/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Quads.h
+c000000004BE9186C0000000000000493
+t1273567340
+s1171
+i"OpenGL/gl.h"
+i"GLUT/glut.h"
+i"OpenGL/glu.h"
+i"GLUT/glext.h"
+i"Vertex.h"
+i"Normal.h"
+
+N/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Shader.cpp
+c000000004BE91AE00000000000000D9F
+t1273567968
+s3487
+i"Shader.h"
+
+N/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Shader.h
+c000000004BE91AE700000000000003C6
+t1273567975
+s966
+i"OpenGL/gl.h"
+i"GLUT/glut.h"
+i"OpenGL/glu.h"
+i"GLUT/glext.h"
+i<math.h>
+i<iostream>
+
+N/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Triangles.cpp
+c000000004BE9182300000000000004D0
+t1273567267
+s1232
+i"Triangles.h"
+i<iostream>
+
+N/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Triangles.h
+c000000004BE91AF3000000000000045A
+t1273567987
+s1114
+i"OpenGL/gl.h"
+i"GLUT/glut.h"
+i"OpenGL/glu.h"
+i"GLUT/glext.h"
+i"Vertex.h"
+i"Normal.h"
+
+N/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Vertex.cpp
+c000000004BE918C1000000000000024A
+t1273567425
+s586
+i"Vertex.h"
+
+N/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Vertex.h
+c000000004BE918F4000000000000027F
+t1273567476
+s639
+i"OpenGL/gl.h"
+i"GLUT/glut.h"
+i"OpenGL/glu.h"
+i"GLUT/glext.h"
+i"Normal.h"
+
+N/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/Debug/Code
+t1274282411
+s81624
+
+N/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Objects-normal/x86_64/Code.LinkFileList
+c000000004BF401A7000000000000031C
+t1274282407
+s796
+
+N/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Objects-normal/x86_64/Normal.o
+t1274282410
+s8940
+
+N/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Objects-normal/x86_64/ObjReader.o
+t1274282410
+s125748
+
+N/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Objects-normal/x86_64/Parser.o
+t1274282410
+s115436
+
+N/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Objects-normal/x86_64/Quads.o
+t1274282409
+s56644
+
+N/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Objects-normal/x86_64/Shader.o
+t1274282409
+s51204
+
+N/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Objects-normal/x86_64/Triangles.o
+t1274282409
+s55696
+
+N/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Objects-normal/x86_64/Vertex.o
+t1274282407
+s7704
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies295975206#295975207#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/prj.build/Debug/InfoGrafica.build/Objects-normal/x86_64/Normal.o /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Normal.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s295975210.239015
+e295975210.431540
+r1
+xCompileC
+xbuild/prj.build/Debug/InfoGrafica.build/Objects-normal/x86_64/Normal.o
+x/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Normal.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Normal.cpp295975210#295975210#0(0"0(0#0#52"/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Normal.cpp4300911832#1316"    cd /Users/FOX/Desktop/UniPD/OpenGL/Progetto1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Code-generated-files.hmap -I/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Code-own-target-headers.hmap -I/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Code-all-target-headers.hmap -iquote /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Code-project-headers.hmap -F/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/Debug -I/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/Debug/include -I/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/DerivedSources/x86_64 -I/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/DerivedSources -c /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Normal.cpp -o /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Objects-normal/x86_64/Normal.o0#
+
+CCompileC build/prj.build/Debug/InfoGrafica.build/Objects-normal/x86_64/ObjReader.o /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/ObjReader.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s295975209.806998
+e295975211.011974
+r1
+xCompileC
+xbuild/prj.build/Debug/InfoGrafica.build/Objects-normal/x86_64/ObjReader.o
+x/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/ObjReader.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/ObjReader.cpp295975209#295975211#0(0"0(0#0#55"/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/ObjReader.cpp4300911832#1322"    cd /Users/FOX/Desktop/UniPD/OpenGL/Progetto1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Code-generated-files.hmap -I/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Code-own-target-headers.hmap -I/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Code-all-target-headers.hmap -iquote /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Code-project-headers.hmap -F/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/Debug -I/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/Debug/include -I/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/DerivedSources/x86_64 -I/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/DerivedSources -c /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/ObjReader.cpp -o /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Objects-normal/x86_64/ObjReader.o0#
+
+CCompileC build/prj.build/Debug/InfoGrafica.build/Objects-normal/x86_64/Parser.o /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Parser.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s295975209.270243
+e295975210.238902
+r1
+xCompileC
+xbuild/prj.build/Debug/InfoGrafica.build/Objects-normal/x86_64/Parser.o
+x/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Parser.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Parser.cpp295975209#295975210#0(0"0(0#0#52"/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Parser.cpp4300911832#1316"    cd /Users/FOX/Desktop/UniPD/OpenGL/Progetto1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Code-generated-files.hmap -I/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Code-own-target-headers.hmap -I/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Code-all-target-headers.hmap -iquote /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Code-project-headers.hmap -F/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/Debug -I/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/Debug/include -I/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/DerivedSources/x86_64 -I/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/DerivedSources -c /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Parser.cpp -o /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Objects-normal/x86_64/Parser.o0#
+
+CCompileC build/prj.build/Debug/InfoGrafica.build/Objects-normal/x86_64/Quads.o /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Quads.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s295975207.988562
+e295975209.239259
+r1
+xCompileC
+xbuild/prj.build/Debug/InfoGrafica.build/Objects-normal/x86_64/Quads.o
+x/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Quads.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Quads.cpp295975207#295975209#0(0"0(0#0#51"/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Quads.cpp4300911832#1314"    cd /Users/FOX/Desktop/UniPD/OpenGL/Progetto1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Code-generated-files.hmap -I/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Code-own-target-headers.hmap -I/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Code-all-target-headers.hmap -iquote /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Code-project-headers.hmap -F/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/Debug -I/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/Debug/include -I/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/DerivedSources/x86_64 -I/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/DerivedSources -c /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Quads.cpp -o /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Objects-normal/x86_64/Quads.o0#
+
+CCompileC build/prj.build/Debug/InfoGrafica.build/Objects-normal/x86_64/Shader.o /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Shader.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s295975209.239447
+e295975209.806877
+r1
+xCompileC
+xbuild/prj.build/Debug/InfoGrafica.build/Objects-normal/x86_64/Shader.o
+x/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Shader.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Shader.cpp:22: warning: deprecated conversion from string constant to 'GLchar*'
+o/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Shader.cpp:48: warning: deprecated conversion from string constant to 'GLchar*'
+lSLF07#2@60"Compile /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Shader.cpp295975209#295975209#0(244"/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Shader.cpp:22: warning: deprecated conversion from string constant to 'GLchar*'/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Shader.cpp:48: warning: deprecated conversion from string constant to 'GLchar*'2(22@55"Deprecated conversion from string constant to 'GLchar*'295975209#0#122#0(6@52"/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Shader.cpp295260768#22#0#22#0#49"deprecated conversion from string constant to '*'0(22@55"Deprecated conversion from string constant to 'GLchar*'295975209#122#122#0(6@52"/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Shader.cpp295260768#48#0#48#0#49"deprecated conversion from string constant to '*'0(0#0#52"/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Shader.cpp4300911832#1316"    cd /Users/FOX/Desktop/UniPD/OpenGL/Progetto1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Code-generated-files.hmap -I/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Code-own-target-headers.hmap -I/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Code-all-target-headers.hmap -iquote /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Code-project-headers.hmap -F/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/Debug -I/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/Debug/include -I/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/DerivedSources/x86_64 -I/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/DerivedSources -c /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Shader.cpp -o /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Objects-normal/x86_64/Shader.o0#
+
+CCompileC build/prj.build/Debug/InfoGrafica.build/Objects-normal/x86_64/Triangles.o /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Triangles.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s295975207.540912
+e295975209.270128
+r1
+xCompileC
+xbuild/prj.build/Debug/InfoGrafica.build/Objects-normal/x86_64/Triangles.o
+x/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Triangles.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Triangles.cpp295975207#295975209#0(0"0(0#0#55"/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Triangles.cpp4300911832#1322"    cd /Users/FOX/Desktop/UniPD/OpenGL/Progetto1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Code-generated-files.hmap -I/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Code-own-target-headers.hmap -I/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Code-all-target-headers.hmap -iquote /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Code-project-headers.hmap -F/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/Debug -I/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/Debug/include -I/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/DerivedSources/x86_64 -I/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/DerivedSources -c /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Triangles.cpp -o /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Objects-normal/x86_64/Triangles.o0#
+
+CCompileC build/prj.build/Debug/InfoGrafica.build/Objects-normal/x86_64/Vertex.o /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Vertex.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s295975207.539742
+e295975207.988311
+r1
+xCompileC
+xbuild/prj.build/Debug/InfoGrafica.build/Objects-normal/x86_64/Vertex.o
+x/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Vertex.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Vertex.cpp295975207#295975207#0(0"0(0#0#52"/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Vertex.cpp4300911832#1316"    cd /Users/FOX/Desktop/UniPD/OpenGL/Progetto1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Code-generated-files.hmap -I/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Code-own-target-headers.hmap -I/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Code-all-target-headers.hmap -iquote /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Code-project-headers.hmap -F/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/Debug -I/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/Debug/include -I/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/DerivedSources/x86_64 -I/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/DerivedSources -c /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/Vertex.cpp -o /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Objects-normal/x86_64/Vertex.o0#
+
+CLd /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/Debug/Code normal x86_64
+s295975211.012325
+e295975211.703915
+r1
+xLd
+x/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/Debug/Code
+xnormal
+xx86_64
+lSLF07#2@63"Link /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/Debug/Code295975211#295975211#0(0"0(0#0#0"4300911832#541"    cd /Users/FOX/Desktop/UniPD/OpenGL/Progetto1    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/Debug -F/Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/Debug -filelist /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Objects-normal/x86_64/Code.LinkFileList -mmacosx-version-min=10.6 -framework OpenGL -framework GLUT -o /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/Debug/Code0#
+

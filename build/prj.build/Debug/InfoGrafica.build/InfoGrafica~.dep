@@ -1,0 +1,8 @@
+fc405d948a417fa9bb1fa202ece6e4f8 f124d31607bb015e1ec4e337a15939ec ffffffffffffffffffffffffffffffff 81624 /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/Debug/Code
+00000000082c34340000000000072b65 5400baca17e9e78c8f5078fe0041098e ffffffffffffffffffffffffffffffff 8940 /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Objects-normal/x86_64/Normal.o
+000000004bf2fe3a0000000000004c00 c41261a043ef6b442b3e930d48b89e0e ffffffffffffffffffffffffffffffff 125748 /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Objects-normal/x86_64/ObjReader.o
+00000000012a3fcd0000000000001be9 6fb1ad81ed37d4590e1cdc501ade2b77 ffffffffffffffffffffffffffffffff 115436 /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Objects-normal/x86_64/Parser.o
+0000000042ef14840000000000072041 5483bb7ef3b0fee469a5a9a8792143e9 ffffffffffffffffffffffffffffffff 51204 /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Objects-normal/x86_64/Shader.o
+000000004be918d700000000000003d8 22ec95fee83279f45bbf8b5c27a351df ffffffffffffffffffffffffffffffff 56644 /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Objects-normal/x86_64/Quads.o
+000000004be91a2400000000000002f5 1a4e5b1533f38adc85de580a0f2a0dca ffffffffffffffffffffffffffffffff 55696 /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Objects-normal/x86_64/Triangles.o
+000000004be919ce0000000000000290 6fc25eea1b1afb5aa6a9ef5fef6867ed ffffffffffffffffffffffffffffffff 7704 /Users/FOX/Desktop/UniPD/OpenGL/Progetto1/build/prj.build/Debug/InfoGrafica.build/Objects-normal/x86_64/Vertex.o
